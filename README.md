@@ -29,6 +29,19 @@ Projeto de Api para criação de um aplicativo para agendamentos, neste reposito
 
 - Envio de SMS para lembretes.
 
+## Stack utilizada
+
+**Back-end:** Python, FastAPi
+
+**Mobile:** ReactNative
+
+
+
+## Feedback
+
+Se você tiver algum feedback, por favor nos deixe saber por meio de wesleymr59@gmail.com
+
+
 ## Autores
 
 - [@wesleyMarques](https://github.com/wesleymr59)
